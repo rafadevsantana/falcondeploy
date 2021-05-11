@@ -1,0 +1,63 @@
+.sofa {
+  background-color: #FFDBDB;
+  align-items: center;
+  border-radius: 10px;
+  height: 55vh;
+  
+}
+.sofa:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.colchao {
+  background-color: #EEFFEB;
+  align-items: center;
+  border-radius: 10px;
+  height: 55vh;
+}
+.colchao:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.cadeira {
+  background-color: #DDEDFF;
+  align-items: center;
+  border-radius: 10px;
+  height: 55vh;
+
+}
+.cadeira:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.veiculos {
+  background-color: #FAE4C4;
+  align-items: center;
+  border-radius: 10px;
+  height: 55vh;
+  margin-bottom: 10px;
+}
+.veiculos:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 15pt;
+  align-items: center;
+}
+
+.paragraph {
+  margin: 5px 30px 0px 15px;
+  font-size: 11pt;
+}
+
+.image {
+  width: 100%;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.color {
+  /* background-color: red; */
+}

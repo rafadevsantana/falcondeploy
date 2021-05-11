@@ -1,0 +1,76 @@
+.bg-color {
+  background-color: white;
+  align-items: center;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.card-Color-red {
+  width: 70px;
+  height:70px;
+  align-items: center;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.card-Color-red:hover {
+  background-color: #ffdbdb;
+}
+.card-Color-green {
+  width: 70px;
+  height: 70px;
+  align-items: center;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.card-Color-green:hover {
+  background-color: #eeffeb;
+}
+
+.card-Color-blue {
+  width: 70px;
+  height: 70px;
+  align-items: center;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.card-Color-blue:hover {
+  background-color: #ddedff;
+}
+
+.card-Color-orange {
+  width: 70px;
+  height: 70px;
+  align-items: center;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.card-Color-orange:hover {
+  background-color: #fae4c4;
+}
+
+img {
+  width: 40px;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.h4-cat {
+  font-size: 20px;
+  color: #1DE9B6 ;
+}
+
+.h1-title-1 {
+  font-size: 28px;
+  text-align: center;
+}
+
+.al-start {
+  align-items: flex-start;
+}
+
+
+.p-icons {
+  font-size: 10pt;
+}
